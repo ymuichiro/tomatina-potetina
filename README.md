@@ -67,3 +67,15 @@
 イベントは組織によるものではなく、各個人が主体的にゲームやツールを公開し、また操作方法等のサポートも同様に各個人が主体的に行っているものとなります。よって、イベントに関する対応やサポートには限界があります。個々の問題や疑問にはすぐに対応できない場合もあります。他の参加者と協力し、共に問題解決を図ることが大切です。また、困っているユーザーがいた場合は適切な相談先となる discord や twitter ハッシュタグ, LINE 等へ誘導にご協力下さい。
 
 以上の点に留意しながら、トマティーナのイベントを楽しんでいただければ幸いです。どうぞ素晴らしい体験をお楽しみください
+
+## 各種ツール、サイト
+
+- [Symbol Community Web](https://symbol-community.com/)
+- [Symbol SSS Extention](https://chrome.google.com/webstore/detail/sss-extension/llildiojemakefgnhhkmiiffonembcan?hl=ja)
+- [Symbol Desktop Wallet](https://docs.symbol.dev/ja/wallets.html)
+- [Symbol Tomatina Event](https://symbol-community.com/events/tomatina)
+- [Tomatina × Potetina Movie](https://drive.google.com/file/d/1tBvmG_My87tGoSptjLGcArXIjl8lvNMj/view?usp=drivesdk)
+- [ベリロン フリーイラスト](https://verylonganimals.com/download/)
+- [ベリロン Games](https://verylonganimals.notion.site/VLA-Game-Gallery-4abfda519c9d4a4688131a6a1fff8c73)
+- [ベリロン Discord](https://discord.gg/q2E7tzpn)
+- [Foteison](https://www.foteison.net/)
